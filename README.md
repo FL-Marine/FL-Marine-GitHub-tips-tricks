@@ -14,4 +14,4 @@ SELECT blahh
 
 https://stackoverflow.com/questions/401928/format-sql-in-sql-server-management-studio
 
-![image](https://user-images.githubusercontent.com/74512335/130808525-9576c139-67a0-431e-90bf-3d26bc24065e.png)
+![image](https://user-images.githubusercontent.com/74512335/130809768-53799c7a-1826-4560-9241-7d304227a181.png)
