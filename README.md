@@ -1,4 +1,4 @@
-# FL-Marine-GitHub-tips-tricks. Tips and tricks I found or others have shared
+# Tips and tricks I found or others have shared
 
 Add triple backticks to your message like this to insert code block in markdown files
 
